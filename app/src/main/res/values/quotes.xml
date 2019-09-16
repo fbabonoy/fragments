@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>
+            “The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.” – Winston Churchill
+        </item>
+        <item>
+            “Don’t Let Yesterday Take Up Too Much Of Today.” – Will Rogers
+        </item>
+        <item>
+            “You Learn More From Failure Than From Success. Don\’t Let It Stop You. Failure Builds Character.” – Unknown
+        </item>
+        <item>
+
+        </item>
+    </string-array>
+</resources>
+
